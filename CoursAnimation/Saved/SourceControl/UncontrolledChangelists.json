@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Custom/ABP_CustomCharacter.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/ThirdPerson/Blueprints/BP_CustomCharacter.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Input/IMC_Default.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Custom/Animation/BS_Locomotion_NonCombat.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Custom/Animation/BS_Locomotion_Combat.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Custom/Animation/BS_Jump_NonCombat.uasset",
+				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Input/Actions/IA_Combat.uasset"
+			]
+		}
+	]
+}
