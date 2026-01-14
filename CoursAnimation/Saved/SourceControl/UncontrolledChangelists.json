@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/Custom/ABP_CustomCharacter.uasset",
+				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/ThirdPerson/Blueprints/BP_CustomCharacter.uasset",
+				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/ParagonWraith/Characters/Heroes/Wraith/Animations/Jump_Recovery.uasset",
 				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/Custom/ABP_CustomCharacter.uasset",
 				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/ThirdPerson/Blueprints/BP_CustomCharacter.uasset",
 				"C:/Users/ldubois/Documents/Unreal Projects/CoursAnimation/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
