@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lea Gaming/source/repos/cours-animation/CoursAnimation/Content/Custom/ABP_CustomCharacter.uasset",
+				"C:/Users/Lea Gaming/source/repos/cours-animation/CoursAnimation/Content/ParagonWraith/Characters/Heroes/Wraith/Animations/Ability_E_Montage.uasset",
+				"C:/Users/Lea Gaming/source/repos/cours-animation/CoursAnimation/Content/ThirdPerson/Blueprints/BP_CustomCharacter.uasset",
+				"C:/Users/Lea Gaming/source/repos/cours-animation/CoursAnimation/Content/Custom/AM_AfterAbility.uasset",
 				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/Custom/ABP_CustomCharacter.uasset",
 				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/ThirdPerson/Blueprints/BP_CustomCharacter.uasset",
 				"C:/Users/ldubois/Documents/GitHub/cours-animation/CoursAnimation/Content/ThirdPerson/Lvl_ThirdPerson.umap",
